@@ -5,10 +5,13 @@ body {
 }
 .egg {
     display: inline-block;
-    width: 100px;
+    width: 120px;
+
     height: 130px;
+
+    background: linear-gradient(45deg, #ff9ecd, #ffcce6);
+    height: 120px;
     
-    background: linear-gradient(45deg, blue, orange);
 
     border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
     margin: 10px;
